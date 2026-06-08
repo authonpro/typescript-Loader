@@ -1,0 +1,12 @@
+{
+  "name": "authon-sdk-typescript",
+  "version": "1.0.0",
+  "description": "Official Authon TypeScript SDK",
+  "main": "authon.ts",
+  "scripts": {
+    "example": "npx tsx example.ts"
+  },
+  "license": "MIT",
+  "homepage": "https://authon.pro",
+  "repository": "https://github.com/authonpro/sdk-typescript"
+}
